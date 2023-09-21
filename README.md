@@ -1,1 +1,1 @@
-# deep-learning-from-scratch-NLP
+# 01. seq2seq
